@@ -156,7 +156,7 @@ Features:
 ## 📫 Connect With Me
 
 LinkedIn:
-linkedin.com/in/rohitkpatil
+https://www.linkedin.com/in/rohitkpatil/
 
 GitHub:
 github.com/Rohit2764
@@ -168,7 +168,7 @@ Portfolio:
 rohitkpatil.vercel.app
 
 Email:
-[your-email@example.com](mailto:your-email@example.com)
+[rohitkpatil04@gmail.com](mailto:rohitkpatil04@gmail.com)
 
 ---
 
